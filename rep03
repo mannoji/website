@@ -22,19 +22,20 @@
 <body>
   <div class=header>
     <h1>最終レポート ： 公大高専１年実習I-1</h1>
-    <div>1組〇番 ニックネーム</div>
+    <div>1組３番 まんおじ</div>
   </div>
   <div class=3week>
     <h2>第3週目</h2>
     <div>
       <h3>3-1 JavaScript体験：伝言プログラムを作る</h3>
-      <img src="js.png" alt="JavaScript" width="50%" height="50%"><br>
+      <img src="aiueo.png" alt="JavaScript" width="50%" height="50%"><br>
       <a href="https://tmhrdoi.github.io/website/dengon.html">伝言板</a><br>                                   
       <div>
         1.内容<br>
-        ないようないよう<br>
+        Webプログラミング道場を使って伝言板を作った。<br>
         2.感想<br>
-        かんそうかんそう<br>
+        スペルミスが一つでもあったら表示することができないようになっているのでとても繊細だなと思った
+        一回一回表示するで確認することも大事だと感じた。プログラミングは手順に沿っていったら完成できるのでパズルみたいで面白かった<br>
       </div>
     </div>
 
@@ -42,7 +43,7 @@
       <h3>3-2 VR体験</h3>
       <div>
         1.内容<br>
-        ないようないよう<br>
+        VR体験をしよう。<br>
         2.感想<br>
         かんそうかんそう<br>
       </div>
@@ -51,18 +52,18 @@
   <div class=2week>
     <h2>第2週目のレポート</h2>
       <div>
-        <a href="https://xxxxxx.github.io/website/rep02.html">2週目のレポート</a><br>
+        <a href="https://mannoji.github.io/website/rep02.html">2週目のレポート</a><br>
       </div>
   </div>
   <div class=1week>
     <h2>第1週目のレポート</h2>
       <div>
-        <a href="https://xxxxxx.github.io/website/rep01.html">1週目のレポート</a><br>
+        <a href="https://mannoji.github.io/website/rep01.html">1週目のレポート</a><br>
       </div>
   </div>
                                                              
   <div class=footer>
-    作成日：2022年xx月xx日
+    作成日：2022年7月27日
   </div>
 </body>
 </html>
